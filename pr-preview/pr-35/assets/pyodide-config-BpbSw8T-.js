@@ -1,0 +1,1 @@
+import{Ft as r}from"./src-eF5MZGZR.js";var e="https://cdn.jsdelivr.net/pyodide/v0.27.7/full/";function i(t=r()){const n=t.VITE_PYODIDE_INDEX_URL?.trim()||e;return n.endsWith("/")?n:`${n}/`}function d(t){return t===e}export{d as n,i as t};

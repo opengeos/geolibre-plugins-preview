@@ -1,0 +1,1 @@
+import{i as s,l as i,x as l,y as a}from"./esm-Crc_ae4F.js";function u(o,t={}){const e=[];if(i(o,r=>{e.push(r.coordinates)}),e.length<2)throw new Error("Must have at least 2 geometries");const n=s(e[0],...e.slice(1));return n.length===0?null:n.length===1?l(n[0],t.properties):a(n,t.properties)}var g=u;export{g as t};
